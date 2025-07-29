@@ -1,7 +1,6 @@
 # TopStars
 
-Atividade em Wordpresse produzida com o objetivo de explorar recursos de design mais avançados. Foi feito com base no site anterior, um site de listagem de personagens favoritos de
-minha escolha, então continuei seguindo a paleta de cores e a tipografia. Foram adicionados botões com animações, carroussel de informações, divisores de seções e um video de fundo no inicio do site, em comparação com a primeira versão.
+Atividade em Wordpresse produzida com o objetivo de explorar recursos de design mais avançados. Foi feito com base no site anterior, um site de listagem de personagens favoritos de minha escolha, então continuei seguindo a paleta de cores e a tipografia. Foram adicionados botões com animações, carroussel de informações, divisores de seções e um video de fundo no inicio do site, em comparação com a primeira versão. Esse site foi a reprodução do primeiro site que produzi no Wordpress, então as cores e elementos são os mesmos, só mudam a forma como estão dispostos na página.
 
 
 ### Cores
